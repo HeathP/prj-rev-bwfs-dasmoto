@@ -1,0 +1,18 @@
+html {
+  font-family: Helvetica !important;
+}
+ .image{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  background-size:auto;
+  background-position: center;
+  height: 220px;
+}
+.title {font-size: 100px;
+        font-weight: bold;
+        color: khaki;
+        text-align: center; text-align: horizontal;}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
